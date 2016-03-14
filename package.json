@@ -1,0 +1,19 @@
+{
+  "name": "vminpoly",
+  "version": "1.0.0",
+  "description": "fork of saabi/vminpoly with package.json",
+  "main": "vminpoly.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinled/vminpoly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sinled/vminpoly/issues"
+  },
+  "homepage": "https://github.com/Sinled/vminpoly#readme"
+}
